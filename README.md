@@ -213,22 +213,11 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 09. Contribution Activity
 
+### 09 📈 Contribution Activity
+ 
 <div align="center">
-
-<p>
-  <b>🚀 Actively Building • Committing • Learning • Contributing</b>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=ffffff&hide_border=false&border_color=4C1D95" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=frankpatel1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frankpatel1&theme=tokyonight&hide_border=true" width="49%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff" width="100%" />
 </div>
 
 ---
