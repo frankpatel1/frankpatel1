@@ -169,6 +169,8 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 `HTML/CSS` `.NET` `PHP` `Java` `Python`
 
+<br/>
+
 ---
 
 ### 06. Achievements
@@ -212,28 +214,8 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 09. GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankpatel1&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=8B5CF6&border_color=4C1D95&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankpatel1&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&border=4C1D95&hide_border=false" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankpatel1&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&border_color=4C1D95&hide_border=false" width="48%" />
-</div>
-
----
-
-### 10. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frankpatel1&theme=darkhub&column=6&margin-w=15&margin-h=15&bg_color=0D1117&border_color=4C1D95" width="100%" />
-</div>
-
----
-
-### 11. Contribution Activity
+### 09. Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=ffffff&hide_border=false&border_color=4C1D95" width="100%" />
@@ -241,7 +223,7 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 12. Contribution Snake
+### 10. Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/frankpatel1/frankpatel1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -249,7 +231,7 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 13. Current Focus
+### 11. Current Focus
 
 ```yaml
 learning:
