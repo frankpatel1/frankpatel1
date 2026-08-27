@@ -11,7 +11,6 @@
   </p>
 
   <p align="center">
-    <a href="https://frankpatel1.github.io/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://linkedin.com/in/frankpatel16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/frankpatel1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -237,14 +236,30 @@ Internship providing hands-on exposure to web development workflows across HTML/
 learning:
   - Advanced Cloud Architecture on AWS
   - Microservices orchestration with Docker & Kubernetes
+
 building:
   - Distributed data scraping frameworks
   - Autonomous AI-integrated workflow pipelines
+
 exploring:
   - Large Language Model agentic frameworks
   - Event-driven scalable architectures
+
 open_to:
   - Software Development Engineer (Full-Stack / Backend)
   - Data & AI Automation Engineering Roles
+```
 
----
+## 12. Connect With Me
+
+<p align="center">
+  <a href="mailto:frankapetl33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-frankapetl33%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/frankpatel16/">
+    <img src="https://img.shields.io/badge/LinkedIn-Frank%20Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Frank%20Patel-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
