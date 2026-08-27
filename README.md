@@ -213,11 +213,22 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-
 ### 09. Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=ffffff&hide_border=false&border_color=4C1D95" width="100%" />
+
+<p>
+  <b>🚀 Actively Building • Committing • Learning • Contributing</b>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=ffffff&hide_border=false&border_color=4C1D95" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=frankpatel1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frankpatel1&theme=tokyonight&hide_border=true" width="49%" />
+
 </div>
 
 ---
@@ -263,3 +274,26 @@ open_to:
     <img src="https://img.shields.io/badge/GitHub-Frank%20Patel-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
+---
+
+
+<div align="center">
+
+### Thanks for visiting my GitHub profile! 👋
+
+I appreciate you taking the time to explore my work, projects, and technical journey.
+
+I'm always interested in **building meaningful software, solving challenging engineering problems, and exploring new possibilities with AI, automation, and cloud technologies.**
+
+If you find something interesting here, feel free to ⭐ a repository, connect with me, or start a conversation.
+
+<br/>
+
+**Let's build something impactful together. 🚀**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,45&height=120&section=footer" width="100%" />
+
+</div>
