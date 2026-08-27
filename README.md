@@ -11,6 +11,7 @@
   </p>
 
   <p align="center">
+    <a href="https://frankpatel.dev"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://linkedin.com/in/frankpatel16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/frankpatel1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -44,13 +45,13 @@ Enterprise-minded **Full-Stack & Automation Engineer** specializing in architect
 | :--- | :--- |
 | **Languages** | `Python` `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` `SQL` |
 | **Frontend Frameworks** | `React.js` `Redux Toolkit` `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
-| **Backend & Data** | `Node.js` `Express.js` `RESTful APIs` `MongoDB` `ETL Pipelines` `BeautifulSoup` `Selenium` |
-| **Cloud & DevOps** | `AWS (EC2, S3)` `Docker` `CI/CD Pipelines` `Git` `GitHub Actions` `Postman` |
+| **Backend & Databases** | `Node.js` `Express.js` `RESTful APIs` `MongoDB` `PostgreSQL` `ETL Pipelines` `BeautifulSoup` `Selenium` |
+| **Cloud, DevOps & Tooling** | `AWS (EC2, S3)` `Docker` `Kubernetes` `CI/CD Pipelines` `Git` `GitHub Actions` `Postman` |
 
 <br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,aws,docker,githubactions,git,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,postgres,aws,docker,kubernetes,githubactions,git,tailwind&theme=dark" />
 </a>
 
 </div>
@@ -126,7 +127,7 @@ Modern UI architectures relying on custom React Hooks and component reusability 
 
 ---
 
-##  05 💼 Experience
+### 05. Experience
 
 ### Python Developer — Automation & Web Scraping
 **Freelance, Self-Employed** · Jan 2024 – Present · Ahmedabad, India
@@ -160,7 +161,6 @@ Engineered and delivered 5+ production-ready responsive web applications, achiev
 
 ---
 
-
 ### Trainee Engineer — Web Design
 **Invision Software Solution** · Sep 2022 · Gandhinagar, India
 
@@ -178,10 +178,10 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 | Recognition | Details |
 | :--- | :--- |
-| **Operational Efficiency** | Eliminated 20+ hours of manual overhead per week through enterprise automation (+30% operational efficiency)[cite: 1, 2]. |
-| **Scalability Target** | Designed and deployed cloud-native web architecture supporting 10,000+ concurrent users[cite: 1, 2]. |
-| **Engagement Elevation** | Boosted user interaction metrics by 40% via high-throughput API design and intuitive UI flows[cite: 1, 2]. |
-| **Rendering Integrity** | Delivered 98% cross-browser and cross-device interface compatibility across production web apps[cite: 1, 2]. |
+| **Operational Efficiency** | Eliminated 20+ hours of manual overhead per week through enterprise automation (+30% operational efficiency). |
+| **Scalability Target** | Designed and deployed cloud-native web architecture supporting 10,000+ concurrent users. |
+| **Engagement Elevation** | Boosted user interaction metrics by 40% via high-throughput API design and intuitive UI flows. |
+| **Rendering Integrity** | Delivered 98% cross-browser and cross-device interface compatibility across production web apps. |
 
 </div>
 
@@ -193,12 +193,12 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 #### Cloud, DevOps & Security
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=74E92209D68352B709C642D436F6757CFB27B7B9EB46AA06F5575D819116848E"><img src="https://img.shields.io/badge/Oracle-OCI_2025_DevOps_Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/d30d0775-da6a-438c-8926-c32505d04c82/linked_in_profile"><img src="https://img.shields.io/badge/Cloud_Computing-Fundamentals-4c1d95?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/bd131b3a-0cd9-4aa7-aa7b-e7ae1623f487/linked_in_profile"><img src="https://img.shields.io/badge/Security-Introduction_to_Cybersecurity-00599C?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/d30d0775-da6a-438c-8926-c32505d04c82/linked_in_profile"><img src="https://img.shields.io/badge/AWS-Cloud_Computing_Fundamentals-4c1d95?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/bd131b3a-0cd9-4aa7-aa7b-e7ae1623f487/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-00599C?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 #### Artificial Intelligence, Data & Engineering
-<a href="https://www.credly.com/badges/531c64dd-5ac7-4079-ac71-3edeed35da18/linked_in_profile"><img src="https://img.shields.io/badge/Artificial_Intelligence-Fundamentals-5b21b6?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/3d86fd96-db28-4c4d-bc39-37c51d5e2918/linked_in_profile"><img src="https://img.shields.io/badge/Data_Science-Introduction_to_Data_Science-7c3aed?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/531c64dd-5ac7-4079-ac71-3edeed35da18/linked_in_profile"><img src="https://img.shields.io/badge/NPTEL-Artificial_Intelligence_Fundamentals-5b21b6?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/3d86fd96-db28-4c4d-bc39-37c51d5e2918/linked_in_profile"><img src="https://img.shields.io/badge/NPTEL-Introduction_to_Data_Science-7c3aed?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_txXXucKmK2ELXzHbf_1761383908064_completion_certificate.pdf"><img src="https://img.shields.io/badge/J.P._Morgan-Software_Engineering_Job_Simulation-003366?style=for-the-badge&logo=jpmorgan&logoColor=white" /></a>
 
 </div>
@@ -209,20 +209,43 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 <div align="center">
   <a href="https://leetcode.com/u/frankpatel1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/user/frankpatel1"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/frankpatel1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/frankpatel1"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </div>
 
 ---
 
+### 09. GitHub Analytics
 
-### 09 📈 Contribution Activity
- 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frankpatel1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=frankpatel1&theme=tokyonight&hide_border=true&background=0d0221&ring=8b5cf6&fire=a78bfa&currStreakLabel=e9d5ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankpatel1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff" />
 </div>
 
 ---
 
-### 10. Contribution Snake
+### 10. GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frankpatel1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+### 11. Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff" width="100%" />
+</div>
+
+---
+
+### 12. Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/frankpatel1/frankpatel1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -230,7 +253,7 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 11. Current Focus
+### 13. Current Focus
 
 ```yaml
 learning:
@@ -250,38 +273,30 @@ open_to:
   - Data & AI Automation Engineering Roles
 ```
 
-## 12. Connect With Me
+---
+
+### 14. Connect With Me
 
 <p align="center">
-  <a href="mailto:frankapetl33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-frankapetl33%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:frankpatel33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-frankpatel33%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/frankpatel16/">
     <img src="https://img.shields.io/badge/LinkedIn-Frank%20Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/frankpatel1">
     <img src="https://img.shields.io/badge/GitHub-Frank%20Patel-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://frankpatel.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
-
 <div align="center">
 
-### Thanks for visiting my GitHub profile! 👋
-
-I appreciate you taking the time to explore my work, projects, and technical journey.
-
-I'm always interested in **building meaningful software, solving challenging engineering problems, and exploring new possibilities with AI, automation, and cloud technologies.**
-
-If you find something interesting here, feel free to ⭐ a repository, connect with me, or start a conversation.
-
-<br/>
-
-**Let's build something impactful together. 🚀**
-
-<br/>
+### "Engineering resilient systems, one pipeline at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,45&height=120&section=footer" width="100%" />
 
