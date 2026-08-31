@@ -218,7 +218,7 @@ Internship providing hands-on exposure to web development workflows across HTML/
 ---
 
 
-### 10. Contribution Snake
+### 09. Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/frankpatel1/frankpatel1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -226,7 +226,7 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 11. Current Focus
+### 10. Current Focus
 
 ```yaml
 learning:
@@ -248,7 +248,7 @@ open_to:
 
 ---
 
-### 12. Connect With Me
+### 11. Connect With Me
 
 <p align="center">
   <a href="mailto:frankpatel33@gmail.com">
