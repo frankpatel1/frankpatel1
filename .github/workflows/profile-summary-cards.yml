@@ -1,0 +1,33 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Profile Summary Cards
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: frankpatel1
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: github_dark
+          ANIMATION: fade
+          DURATION: "1.5"
+          NAME: "Frank Patel"
