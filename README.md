@@ -228,10 +228,6 @@ Internship providing hands-on exposure to web development workflows across HTML/
 ## 010. 📊 GitHub Analytics
 
 <p align="center">
-  <img src="images/userstats.svg" alt="GitHub Statistics">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankpatel1&theme=github-dark" />
 </p>
 
