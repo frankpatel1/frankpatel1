@@ -217,36 +217,8 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 09. GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frankpatel1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff&cache_seconds=86400" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=frankpatel1&theme=tokyonight&hide_border=true&background=0d0221&ring=8b5cf6&fire=a78bfa&currStreakLabel=e9d5ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankpatel1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff&cache_seconds=86400" />
-</div>
-
----
-
-### 10. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frankpatel1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400" />
-</div>
-
----
-
-### 11. Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankpatel1&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff&cache_seconds=86400" width="100%" />
-</div>
-
----
-
-### 12. Contribution Snake
+### 10. Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/frankpatel1/frankpatel1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -254,7 +226,7 @@ Internship providing hands-on exposure to web development workflows across HTML/
 
 ---
 
-### 13. Current Focus
+### 11. Current Focus
 
 ```yaml
 learning:
@@ -276,7 +248,7 @@ open_to:
 
 ---
 
-### 14. Connect With Me
+### 12. Connect With Me
 
 <p align="center">
   <a href="mailto:frankpatel33@gmail.com">
