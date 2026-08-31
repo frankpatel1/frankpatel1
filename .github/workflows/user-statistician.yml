@@ -1,0 +1,26 @@
+name: GitHub Statistics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Card
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          custom-title: Frank Patel's GitHub Activity
+          animated-language-chart: true
+          include-title: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
