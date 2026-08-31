@@ -225,8 +225,19 @@ Internship providing hands-on exposure to web development workflows across HTML/
 </div>
 
 ---
+## 010. 📊 GitHub Analytics
 
-### 10. Current Focus
+<p align="center">
+  <img src="images/userstats.svg" alt="GitHub Statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankpatel1&theme=github-dark" />
+</p>
+
+---
+
+### 11. Current Focus
 
 ```yaml
 learning:
@@ -248,7 +259,7 @@ open_to:
 
 ---
 
-### 11. Connect With Me
+### 12. Connect With Me
 
 <p align="center">
   <a href="mailto:frankpatel33@gmail.com">
