@@ -282,66 +282,66 @@
 
   <!-- Trophy Card 1: Automation Master -->
   <g transform="translate(40, 502)">
-    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#f472b6" stroke-opacity=".5" stroke-width="1.2"/>
-    <text x="28" y="38" font-size="24">⚡</text>
-    <text class="m" x="168" y="34" text-anchor="end" font-size="20" font-weight="800" fill="#f472b6">SSS</text>
-    <text x="93" y="68" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Auto Master</text>
-    <text x="93" y="86" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">20+ hrs/wk saved</text>
+    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#f472b6" stroke-opacity=".55" stroke-width="1.2"/>
+    <text x="93" y="44" text-anchor="middle" font-size="26">⚡</text>
+    <text class="m" x="172" y="30" text-anchor="end" font-size="18" font-weight="800" fill="#f472b6">SSS</text>
+    <text x="93" y="70" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Automator</text>
+    <text x="93" y="88" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">20+ hrs/wk saved</text>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#241740"/>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#f472b6"/>
   </g>
 
   <!-- Trophy Card 2: Starstruck -->
   <g transform="translate(242, 502)">
-    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#fde047" stroke-opacity=".5" stroke-width="1.2"/>
-    <text x="28" y="38" font-size="24">🌟</text>
-    <text class="m" x="168" y="34" text-anchor="end" font-size="20" font-weight="800" fill="#fde047">S</text>
-    <text x="93" y="68" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Starstruck</text>
-    <text x="93" y="86" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">50+ Stars Earned</text>
+    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#fde047" stroke-opacity=".55" stroke-width="1.2"/>
+    <text x="93" y="44" text-anchor="middle" font-size="26">🌟</text>
+    <text class="m" x="172" y="30" text-anchor="end" font-size="20" font-weight="800" fill="#fde047">S</text>
+    <text x="93" y="70" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Starstruck</text>
+    <text x="93" y="88" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">Stars 50+</text>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#241740"/>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#fde047"/>
   </g>
 
   <!-- Trophy Card 3: Python Pioneer -->
   <g transform="translate(444, 502)">
-    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#38bdf8" stroke-opacity=".5" stroke-width="1.2"/>
-    <text x="28" y="38" font-size="24">🐍</text>
-    <text class="m" x="168" y="34" text-anchor="end" font-size="20" font-weight="800" fill="#38bdf8">A+</text>
-    <text x="93" y="68" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Python Pioneer</text>
-    <text x="93" y="86" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">ETL &amp; Scraping</text>
+    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#38bdf8" stroke-opacity=".55" stroke-width="1.2"/>
+    <text x="93" y="44" text-anchor="middle" font-size="26">🐍</text>
+    <text class="m" x="172" y="30" text-anchor="end" font-size="18" font-weight="800" fill="#38bdf8">A+</text>
+    <text x="93" y="70" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Python Pro</text>
+    <text x="93" y="88" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">ETL &amp; Scraping</text>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#241740"/>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#38bdf8"/>
   </g>
 
   <!-- Trophy Card 4: Committer -->
   <g transform="translate(646, 502)">
-    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#7dd3fc" stroke-opacity=".5" stroke-width="1.2"/>
-    <text x="28" y="38" font-size="24">💻</text>
-    <text class="m" x="168" y="34" text-anchor="end" font-size="20" font-weight="800" fill="#7dd3fc">A+</text>
-    <text x="93" y="68" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Committer</text>
-    <text x="93" y="86" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">500+ Commits</text>
+    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#7dd3fc" stroke-opacity=".55" stroke-width="1.2"/>
+    <text x="93" y="44" text-anchor="middle" font-size="26">💻</text>
+    <text class="m" x="172" y="30" text-anchor="end" font-size="18" font-weight="800" fill="#7dd3fc">A+</text>
+    <text x="93" y="70" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Committer</text>
+    <text x="93" y="88" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">500+ Commits</text>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#241740"/>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#7dd3fc"/>
   </g>
 
   <!-- Trophy Card 5: Web Architect -->
   <g transform="translate(848, 502)">
-    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#a78bfa" stroke-opacity=".5" stroke-width="1.2"/>
-    <text x="28" y="38" font-size="24">🚀</text>
-    <text class="m" x="168" y="34" text-anchor="end" font-size="20" font-weight="800" fill="#a78bfa">A</text>
-    <text x="93" y="68" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Web Architect</text>
-    <text x="93" y="86" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">6+ Live Web Apps</text>
+    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#a78bfa" stroke-opacity=".55" stroke-width="1.2"/>
+    <text x="93" y="44" text-anchor="middle" font-size="26">🚀</text>
+    <text class="m" x="172" y="30" text-anchor="end" font-size="18" font-weight="800" fill="#a78bfa">A</text>
+    <text x="93" y="70" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Web Architect</text>
+    <text x="93" y="88" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">6+ Live Web Apps</text>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#241740"/>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#a78bfa"/>
   </g>
 
   <!-- Trophy Card 6: Repo Creator -->
   <g transform="translate(1050, 502)">
-    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#4ade80" stroke-opacity=".5" stroke-width="1.2"/>
-    <text x="28" y="38" font-size="24">📦</text>
-    <text class="m" x="168" y="34" text-anchor="end" font-size="20" font-weight="800" fill="#4ade80">A</text>
-    <text x="93" y="68" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Repo Creator</text>
-    <text x="93" y="86" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">8+ Public Repos</text>
+    <rect width="186" height="118" rx="14" fill="url(#trophyCard)" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.2"/>
+    <text x="93" y="44" text-anchor="middle" font-size="26">📦</text>
+    <text class="m" x="172" y="30" text-anchor="end" font-size="18" font-weight="800" fill="#4ade80">A</text>
+    <text x="93" y="70" text-anchor="middle" class="s" font-size="13.5" font-weight="700" fill="#f4f5fb">Repo Creator</text>
+    <text x="93" y="88" text-anchor="middle" class="m" font-size="11" fill="#8e91ab">8+ Public Repos</text>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#241740"/>
     <rect x="24" y="98" width="138" height="4" rx="2" fill="#4ade80"/>
   </g>
