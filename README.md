@@ -51,7 +51,7 @@
 
 ## 📊 GitHub at a glance
 
-<img src="./github-at-a-glance.svg?v=2" alt="Frank Patel's GitHub at a glance — Activity, Languages &amp; Achievements" width="100%"/>
+<img src="./github-at-a-glance.svg?v=3" alt="Frank Patel's GitHub at a glance — Activity, Languages &amp; Achievements" width="100%"/>
 
 <br/><br/>
 
