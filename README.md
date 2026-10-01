@@ -59,14 +59,18 @@
 <img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/frankpatel1"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+&nbsp;
 <a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+&nbsp;
 <a href="https://linkedin.com/in/frankpatel16"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=frankpatel1&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/frankpatel1">
+  <img src="https://komarev.com/ghpvc/?username=frankpatel1&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
 
-<br/>
+<br/><br/>
 
 **Automate the boring stuff, ship the rest.** 💜
 
