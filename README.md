@@ -44,33 +44,6 @@
 | **Real-time KPI & Metrics Sync** | Scheduled cron pipelines pulling analytics & production logs into unified SQLite/PostgreSQL warehouse | Delivered executive reports at 8:00 AM daily with zero human intervention | `Python` `PostgreSQL` `Cron` |
 | **Cloud File & Asset Pipeline** | Automated image optimization, file renaming, metadata tagging, and cloud backup syncing | Saved 80% storage footprint and cut manual file sorting time to zero | `Python` `Pillow` `AWS S3` |
 
-<br/>
-
-### 🛠️ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/frankpatel1/3d-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=3d-Portfolio&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="3D Portfolio" width="49%"/>
-  </a>
-  <a href="https://github.com/frankpatel1/MovieScout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=MovieScout&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="MovieScout" width="49%"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/frankpatel1/shoe-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=shoe-ecommerce&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="Shoe E-Commerce" width="49%"/>
-  </a>
-  <a href="https://github.com/frankpatel1/Image-Resizer-JavaScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=Image-Resizer-JavaScript&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="In-Browser Image Resizer" width="49%"/>
-  </a>
-</p>
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **3D Portfolio** | `TypeScript` `Modern CSS` | High-performance interactive 3D animations & component architecture | [Repository ↗](https://github.com/frankpatel1/3d-Portfolio) |
-| **MovieScout** | `JavaScript` `REST APIs` `CSS3` | Dynamic movie search, API integration, and cinematic UI | [Repository ↗](https://github.com/frankpatel1/MovieScout) |
-| **Shoe E-Commerce** | `JavaScript` `HTML5` `CSS3` | Fully responsive store featuring cart logic and catalog navigation | [Repository ↗](https://github.com/frankpatel1/shoe-ecommerce) |
-| **In-Browser Image Resizer** | `JavaScript` `Canvas API` | Client-side file processing, instant resizing, and zero-server latency | [Repository ↗](https://github.com/frankpatel1/Image-Resizer-JavaScript) |
 
 <div align="center">
 
