@@ -33,6 +33,17 @@
 | **API-Driven Front Ends** | RESTful integrations delivering real-time data and workflows | `React.js` `Node.js` `MongoDB` | 📈 +40% engagement |
 | **Scalable Cloud Platforms** | Full-stack apps deployed with CI/CD and Agile practices | `AWS` `CI/CD` `Git` | 👥 10,000+ concurrent users |
 
+<br/>
+
+### 🛠️ Featured Projects
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **3D Portfolio** | `TypeScript` `Modern CSS` | High-performance interactive 3D animations & component architecture | [Repository ↗](https://github.com/frankpatel1/3d-Portfolio) |
+| **MovieScout** | `JavaScript` `REST APIs` `CSS3` | Dynamic movie search, API integration, and cinematic UI | [Repository ↗](https://github.com/frankpatel1/MovieScout) |
+| **Shoe E-Commerce** | `JavaScript` `HTML5` `CSS3` | Fully responsive store featuring cart logic and catalog navigation | [Repository ↗](https://github.com/frankpatel1/shoe-ecommerce) |
+| **In-Browser Image Resizer** | `JavaScript` `Canvas API` | Client-side file processing, instant resizing, and zero-server latency | [Repository ↗](https://github.com/frankpatel1/Image-Resizer-JavaScript) |
+
 <div align="center">
 
 <br/>
