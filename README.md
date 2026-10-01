@@ -39,13 +39,7 @@
 
 ## 📊 GitHub at a glance
 
-<img src="./frank-stats.svg?v=1" alt="Frank Patel's GitHub stats" height="232"/>
-&nbsp;&nbsp;
-<img src="./megha-langs.svg?v=1" alt="Top languages" height="232"/>
-
-<br/><br/>
-
-<img src="./megha-trophies.svg?v=1" alt="GitHub trophies" width="100%"/>
+<img src="./github-at-a-glance.svg?v=2" alt="Frank Patel's GitHub at a glance — Activity, Languages &amp; Achievements" width="100%"/>
 
 </div>
 

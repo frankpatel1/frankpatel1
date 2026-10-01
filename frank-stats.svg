@@ -1,64 +1,124 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 232" width="500" height="232" role="img" aria-label="Frank Patel's GitHub Stats">
-<defs><style><![CDATA[
-text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
-@keyframes fadeSlide{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
-@keyframes fadeIn{from{opacity:0}to{opacity:1}}
-@keyframes rankPulse{0%,100%{opacity:.85}50%{opacity:1}}
-@keyframes shineX{0%{transform:translateX(-160px) skewX(-15deg)}60%,100%{transform:translateX(560px) skewX(-15deg)}}
-.row{opacity:0;animation:fadeSlide .5s ease forwards}
-.rk{animation:rankPulse 2.4s ease-in-out infinite}
-.sh{animation:shineX 4.5s ease-in-out 2.4s infinite}
-]]></style>
-<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
-  <stop offset="100%"><animate attributeName="stop-color" values="#c084fc;#ff7eb6;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
-</linearGradient>
-<linearGradient id="ringg" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0%" stop-color="#ff7eb6"/><stop offset="100%" stop-color="#8b5cf6"/>
-</linearGradient>
-<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
-<clipPath id="cc"><rect x="1" y="1" width="498" height="230" rx="14"/></clipPath>
-<filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect x="1" y="1" width="498" height="230" rx="14" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
-<text x="24" y="38" font-size="16" font-weight="bold" fill="url(#tg)">⚡ Frank Patel's GitHub Stats</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340" role="img" aria-label="Frank Patel's GitHub Stats">
+  <title>Frank Patel's GitHub Stats</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&amp;family=Space+Grotesk:wght@500;600;700;800&amp;display=swap');
+      .s { font-family: 'Space Grotesk', 'Segoe UI', system-ui, -apple-system, sans-serif; }
+      .m { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace; }
+      @keyframes rankPulse { 0%, 100% { opacity: .85; filter: drop-shadow(0 0 6px rgba(34,211,238,.6)); } 50% { opacity: 1; filter: drop-shadow(0 0 14px rgba(34,211,238,.9)); } }
+      @keyframes shineX { 0% { transform: translateX(-180px) skewX(-15deg); } 60%, 100% { transform: translateX(750px) skewX(-15deg); } }
+      .rk-glow { animation: rankPulse 2.5s ease-in-out infinite; }
+      .shimmer { animation: shineX 5s ease-in-out infinite; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0e16"/>
+      <stop offset="100%" stop-color="#151628"/>
+    </linearGradient>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161828"/>
+      <stop offset="100%" stop-color="#10111f"/>
+    </linearGradient>
+    <linearGradient id="shg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity=".08"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect width="600" height="340" rx="18"/>
+    </clipPath>
+  </defs>
 
-  <g class="row" style="animation-delay:0.50s">
-    <text x="24" y="74" font-size="14">⭐</text>
-    <text x="52" y="74" font-size="13.5" fill="#c9d1d9">Total Stars Earned:</text>
-    <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">50+</text>
-  </g>
-  <g class="row" style="animation-delay:0.72s">
-    <text x="24" y="105" font-size="14">💻</text>
-    <text x="52" y="105" font-size="13.5" fill="#c9d1d9">Total Commits:</text>
-    <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">500+</text>
-  </g>
-  <g class="row" style="animation-delay:0.94s">
-    <text x="24" y="136" font-size="14">📦</text>
-    <text x="52" y="136" font-size="13.5" fill="#c9d1d9">Public Repos:</text>
-    <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">8+</text>
-  </g>
-  <g class="row" style="animation-delay:1.16s">
-    <text x="24" y="167" font-size="14">👥</text>
-    <text x="52" y="167" font-size="13.5" fill="#c9d1d9">Followers:</text>
-    <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">25+</text>
-  </g>
-  <g class="row" style="animation-delay:1.38s">
-    <text x="24" y="198" font-size="14">🍥</text>
-    <text x="52" y="198" font-size="13.5" fill="#c9d1d9">Web Applications:</text>
-    <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#ff7eb6">6</text>
+  <!-- Background -->
+  <rect width="600" height="340" rx="18" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="599" height="339" rx="18" fill="none" stroke="url(#grad)" stroke-opacity=".4" stroke-width="1.2"/>
+
+  <!-- Window Header -->
+  <rect width="600" height="42" rx="18" fill="#162338" fill-opacity=".5"/>
+  <rect y="32" width="600" height="10" fill="#162338" fill-opacity=".5"/>
+  <circle cx="26" cy="21" r="5" fill="#ff5f57"/>
+  <circle cx="42" cy="21" r="5" fill="#febc2e"/>
+  <circle cx="58" cy="21" r="5" fill="#28c840"/>
+  <text x="76" y="25" class="m" font-size="12" font-weight="700" fill="#22d3ee" letter-spacing="2">⚡ FRANK PATEL // GITHUB STATS</text>
+
+  <!-- Metrics Column -->
+  <!-- Stars -->
+  <g transform="translate(24, 70)">
+    <circle cx="14" cy="0" r="14" fill="#201d14"/>
+    <text x="14" y="5" text-anchor="middle" font-size="13">⭐</text>
+    <text x="40" y="5" class="s" font-size="14" font-weight="500" fill="#c9d1d9">Total Stars Earned:</text>
+    <text x="330" y="5" text-anchor="end" class="m" font-size="15" font-weight="700" fill="#fde047">50+</text>
+    <line x1="40" y1="18" x2="330" y2="18" stroke="#22253d" stroke-dasharray="3 3"/>
   </g>
 
-<!-- Rank ring -->
-<g transform="translate(408,138)">
-  <circle r="52" fill="none" stroke="#241740" stroke-width="9"/>
-  <circle r="52" fill="none" stroke="url(#ringg)" stroke-width="9" stroke-linecap="round"
-    stroke-dasharray="254.8 326.7" stroke-dashoffset="254.8" transform="rotate(-90)">
-    <animate attributeName="stroke-dashoffset" from="254.8" to="0" dur="1.6s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </circle>
-  <text class="rk" y="14" text-anchor="middle" font-size="40" font-weight="bold" fill="#ff7eb6" filter="url(#g)">A</text>
-  <text y="76" text-anchor="middle" font-size="10.5" fill="#8b949e" opacity="0" style="animation:fadeIn .5s ease 1.8s forwards">RANK</text>
-</g>
+  <!-- Commits -->
+  <g transform="translate(24, 112)">
+    <circle cx="14" cy="0" r="14" fill="#132338"/>
+    <text x="14" y="5" text-anchor="middle" font-size="13">💻</text>
+    <text x="40" y="5" class="s" font-size="14" font-weight="500" fill="#c9d1d9">Total Commits:</text>
+    <text x="330" y="5" text-anchor="end" class="m" font-size="15" font-weight="700" fill="#7dd3fc">500+</text>
+    <line x1="40" y1="18" x2="330" y2="18" stroke="#22253d" stroke-dasharray="3 3"/>
+  </g>
 
-<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="120" height="232" fill="url(#shg)"/></g>
+  <!-- Public Repos -->
+  <g transform="translate(24, 154)">
+    <circle cx="14" cy="0" r="14" fill="#10251d"/>
+    <text x="14" y="5" text-anchor="middle" font-size="13">📦</text>
+    <text x="40" y="5" class="s" font-size="14" font-weight="500" fill="#c9d1d9">Public Repositories:</text>
+    <text x="330" y="5" text-anchor="end" class="m" font-size="15" font-weight="700" fill="#4ade80">8+</text>
+    <line x1="40" y1="18" x2="330" y2="18" stroke="#22253d" stroke-dasharray="3 3"/>
+  </g>
+
+  <!-- Followers -->
+  <g transform="translate(24, 196)">
+    <circle cx="14" cy="0" r="14" fill="#241838"/>
+    <text x="14" y="5" text-anchor="middle" font-size="13">👥</text>
+    <text x="40" y="5" class="s" font-size="14" font-weight="500" fill="#c9d1d9">Followers &amp; Network:</text>
+    <text x="330" y="5" text-anchor="end" class="m" font-size="15" font-weight="700" fill="#c084fc">25+</text>
+    <line x1="40" y1="18" x2="330" y2="18" stroke="#22253d" stroke-dasharray="3 3"/>
+  </g>
+
+  <!-- Production Web Apps -->
+  <g transform="translate(24, 238)">
+    <circle cx="14" cy="0" r="14" fill="#2d162d"/>
+    <text x="14" y="5" text-anchor="middle" font-size="13">🚀</text>
+    <text x="40" y="5" class="s" font-size="14" font-weight="500" fill="#c9d1d9">Production Web Apps:</text>
+    <text x="330" y="5" text-anchor="end" class="m" font-size="15" font-weight="700" fill="#f472b6">6</text>
+    <line x1="40" y1="18" x2="330" y2="18" stroke="#22253d" stroke-dasharray="3 3"/>
+  </g>
+
+  <!-- Hours Automated -->
+  <g transform="translate(24, 280)">
+    <circle cx="14" cy="0" r="14" fill="#132a35"/>
+    <text x="14" y="5" text-anchor="middle" font-size="13">⏱️</text>
+    <text x="40" y="5" class="s" font-size="14" font-weight="500" fill="#c9d1d9">Weekly Hours Automated:</text>
+    <text x="330" y="5" text-anchor="end" class="m" font-size="15" font-weight="700" fill="#22d3ee">20+ hrs</text>
+  </g>
+
+  <!-- Bottom Badge -->
+  <rect x="24" y="304" width="310" height="24" rx="6" fill="#131e33" stroke="#22d3ee" stroke-opacity=".25"/>
+  <text x="34" y="320" class="m" font-size="10.5" font-weight="600" fill="#22d3ee" letter-spacing="1">⚡ SHIP FAST · AUTOMATE THE BORING</text>
+
+  <!-- Circular Rank Ring Component -->
+  <g transform="translate(480, 185)">
+    <circle r="64" fill="none" stroke="#1d2138" stroke-width="9"/>
+    <circle r="64" fill="none" stroke="url(#grad)" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="402.1" stroke-dashoffset="330" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" from="402.1" to="80" dur="1.8s" begin="0.4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </circle>
+    <circle r="54" fill="#121324" stroke="#262842" stroke-width="1.5"/>
+    <text class="s rk-glow" y="16" text-anchor="middle" font-size="44" font-weight="800" fill="#22d3ee">A+</text>
+    <text class="m" y="40" text-anchor="middle" font-size="9.5" font-weight="700" fill="#a78bfa" letter-spacing="2">GLOBAL RANK</text>
+    <text class="m" y="86" text-anchor="middle" font-size="10.5" font-weight="600" fill="#7dd3fc">TOP COMMITS</text>
+    <text class="s" y="102" text-anchor="middle" font-size="11" fill="#8e91ab">Consistently Active</text>
+  </g>
+
+  <!-- Shimmer -->
+  <g clip-path="url(#cardClip)">
+    <rect class="shimmer" x="0" y="0" width="120" height="340" fill="url(#shg)"/>
+  </g>
 </svg>
