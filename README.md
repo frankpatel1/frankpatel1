@@ -85,20 +85,24 @@ Whether you need to eliminate repetitive manual workflows, build modern web appl
 | 📊 **Web Scraping & Data Pipelines** | Resilient crawlers, headless browser scrapers, data cleaning, and structured export (`JSON`, `CSV`, `SQL`, Sheets) | Lead gen, market research, price tracking, BI analytics |
 | ⚡ **Performance & Code Refactoring** | Front-end optimization, async Python concurrency, database query tuning, and clean code refactoring | Slow applications or legacy automation scripts needing speed & scale |
 
-> 💬 **Have an automation idea or project in mind?** Let's talk! Shoot me an email at [frankpatel33@gmail.com](mailto:frankpatel33@gmail.com) or reach out on [LinkedIn](https://linkedin.com/in/frankpatel16).
+> 💬 **Have an automation idea or project in mind?** Explore my [Portfolio Website ↗](https://frankpatel1.github.io/My-Portfolio/), check my problem-solving on [LeetCode ↗](https://leetcode.com/u/frankpatel1/), shoot me an email at [frankpatel33@gmail.com](mailto:frankpatel33@gmail.com), or reach out on [LinkedIn](https://linkedin.com/in/frankpatel16).
 
 <div align="center">
 
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
+<a href="https://frankpatel1.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=0d0e16" alt="Portfolio"/></a>
+&nbsp;
 <a href="https://github.com/frankpatel1"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 &nbsp;
-<a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
-&nbsp;
 <a href="https://linkedin.com/in/frankpatel16"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/frankpatel1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d0e16" alt="LeetCode"/></a>
+&nbsp;
+<a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
 
 <br/><br/>
 
