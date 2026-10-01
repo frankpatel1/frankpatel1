@@ -94,15 +94,22 @@ Whether you need to eliminate repetitive manual workflows, build modern web appl
 <!-- 💌 LET'S CONNECT -->
 <img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
-<a href="https://frankpatel1.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=0d0e16" alt="Portfolio"/></a>
+<br/>
+
+<a href="https://frankpatel1.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/My_Website-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=0d0e16" alt="My Website"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/frankpatel1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d0e16" alt="LeetCode"/></a>
 &nbsp;
 <a href="https://github.com/frankpatel1"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/frankpatel16"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://leetcode.com/u/frankpatel1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d0e16" alt="LeetCode"/></a>
-&nbsp;
 <a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+
+<br/><br/>
+
+🌐 **My Website:** [https://frankpatel1.github.io/My-Portfolio/](https://frankpatel1.github.io/My-Portfolio/)  
+⚡ **LeetCode:** [https://leetcode.com/u/frankpatel1/](https://leetcode.com/u/frankpatel1/)
 
 <br/><br/>
 
