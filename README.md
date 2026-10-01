@@ -107,10 +107,6 @@ Whether you need to eliminate repetitive manual workflows, build modern web appl
 <a href="mailto:frankpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
 
 <br/><br/>
-
-🌐 **My Website:** [https://frankpatel1.github.io/My-Portfolio/](https://frankpatel1.github.io/My-Portfolio/)  
-⚡ **LeetCode:** [https://leetcode.com/u/frankpatel1/](https://leetcode.com/u/frankpatel1/)
-
 <br/><br/>
 
 <a href="https://github.com/frankpatel1">
