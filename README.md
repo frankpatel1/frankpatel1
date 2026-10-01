@@ -35,7 +35,35 @@
 
 <br/>
 
+### ⚡ Automations in Action (Case Studies & ROI)
+
+| Case / Workflow | Solution Architecture | Impact & ROI | Key Tech |
+| :--- | :--- | :--- | :--- |
+| **Enterprise Lead & Data Scraper** | Headless browser cluster scraping dynamic JS-rendered catalogs with proxy rotation & anti-bot evasion | Extracted 50k+ records weekly with 99.8% uptime; replaced 15+ manual hours | `Python` `Selenium` `BeautifulSoup` |
+| **Automated Financial Reconciler** | Multi-source CSV & API data extraction, auto-matching transactions, validation rules & Slack alerts | Cut reconciliation cycle from 3 days to under 12 minutes | `Python` `Pandas` `Slack API` |
+| **Real-time KPI & Metrics Sync** | Scheduled cron pipelines pulling analytics & production logs into unified SQLite/PostgreSQL warehouse | Delivered executive reports at 8:00 AM daily with zero human intervention | `Python` `PostgreSQL` `Cron` |
+| **Cloud File & Asset Pipeline** | Automated image optimization, file renaming, metadata tagging, and cloud backup syncing | Saved 80% storage footprint and cut manual file sorting time to zero | `Python` `Pillow` `AWS S3` |
+
+<br/>
+
 ### 🛠️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/frankpatel1/3d-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=3d-Portfolio&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="3D Portfolio" width="49%"/>
+  </a>
+  <a href="https://github.com/frankpatel1/MovieScout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=MovieScout&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="MovieScout" width="49%"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/frankpatel1/shoe-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=shoe-ecommerce&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="Shoe E-Commerce" width="49%"/>
+  </a>
+  <a href="https://github.com/frankpatel1/Image-Resizer-JavaScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankpatel1&repo=Image-Resizer-JavaScript&theme=tokyonight&bg_color=0d0e16&border_color=a78bfa&title_color=22d3ee&text_color=c9d1d9&icon_color=f472b6" alt="In-Browser Image Resizer" width="49%"/>
+  </a>
+</p>
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
@@ -52,6 +80,11 @@
 
 <img src="./github-at-a-glance.svg?v=2" alt="Frank Patel's GitHub at a glance — Activity, Languages &amp; Achievements" width="100%"/>
 
+<br/><br/>
+
+<!-- ⚡ COMMIT VELOCITY & STREAK -->
+<img src="./streak.svg?v=2" alt="Frank Patel's GitHub Streak &amp; Commit Velocity" width="100%"/>
+
 </div>
 
 <div align="center">
@@ -63,6 +96,25 @@
 *Every commit builds another tower — rebuilt automatically every day.*
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🤝 How we can collaborate
+
+Whether you need to eliminate repetitive manual workflows, build modern web applications, or architect end-to-end data pipelines:
+
+| Mode | What I deliver | Best for |
+| :--- | :--- | :--- |
+| 🤖 **Custom Python Automations** | Standalone scripts or background services automating repetitive tasks, web workflows, report generation, and API integrations | Teams spending >5 hrs/wk on repetitive workflows |
+| 🌐 **Full-Stack Web Development** | Modern, responsive web apps with clean component architecture, snappy UX, and REST/GraphQL APIs | MVPs, SaaS products, dashboards, and customer-facing tools |
+| 📊 **Web Scraping & Data Pipelines** | Resilient crawlers, headless browser scrapers, data cleaning, and structured export (`JSON`, `CSV`, `SQL`, Sheets) | Lead gen, market research, price tracking, BI analytics |
+| ⚡ **Performance & Code Refactoring** | Front-end optimization, async Python concurrency, database query tuning, and clean code refactoring | Slow applications or legacy automation scripts needing speed & scale |
+
+> 💬 **Have an automation idea or project in mind?** Let's talk! Shoot me an email at [frankpatel33@gmail.com](mailto:frankpatel33@gmail.com) or reach out on [LinkedIn](https://linkedin.com/in/frankpatel16).
+
+<div align="center">
 
 <br/><br/>
 
